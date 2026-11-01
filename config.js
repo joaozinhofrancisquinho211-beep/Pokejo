@@ -1,4 +1,2 @@
-// Cole aqui os dados do seu projeto Supabase (Project Settings > API).
-// A chave "anon public" é pública por design. NUNCA use a service_role aqui.
-window.SUPABASE_URL = '';
-window.SUPABASE_KEY = '';
+window.SUPABASE_URL = 'https://rukwshozmhpsdkewbtsx.supabase.co';
+window.SUPABASE_KEY = 'sb_publishable_ayeYgI5VdTrG6jCR7l8K7g_IRaorUkn';
